@@ -1,0 +1,13 @@
+{
+  "name": "moonkit",
+  "version": "0.0.1",
+  "description": "A simple React component library",
+  "main": "index.js",
+  "author": "therapigeonjs",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "react": "^18.2.0",
+    "typescript": "^4.9.5"
+  }
+}
