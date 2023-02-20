@@ -1,0 +1,17 @@
+.MoonKitButton {
+  height: 55px;
+  border-radius: 12px;
+  color: white;
+}
+
+.MoonKitButton[data-size="medium"] {
+  height: 55px;
+  width: 229px;
+  border-radius: 12px;
+}
+
+.MoonKitButton[data-size="full-width"] {
+  height: 55px;
+  width: 100%;
+  border-radius: 12px;
+}
