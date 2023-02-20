@@ -1,6 +1,4 @@
 export enum ButtonSize {
-  MEDIUM,
-  FULL_WIDTH,
+  MEDIUM = "medium",
+  FULL_WIDTH = "full-width",
 }
-
-export 
