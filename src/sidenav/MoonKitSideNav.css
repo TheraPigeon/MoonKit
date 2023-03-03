@@ -1,0 +1,11 @@
+.container {
+  width: 20%;
+  height: 100%;
+}
+
+.element {
+  color: black;
+  width: max-content;
+  padding: 0;
+  border: none;
+}
